@@ -1,0 +1,22 @@
+This is my first project after coming to the end of the NUCAMP BACKEND BOOTCAMP
+
+
+The GOAL:
+Make a web app that displays my programming information.  That also demonstrates my ability to create a database
+
+How?
+Django for app
+Use docker for Container
+Use AWS to host.
+
+Details of the project. 
+Keeping it in very basic phases for now so phase 1 will look like this.
+
+PHASE 1.
+Get website up on AWS that says hello my name is John Carr and I am a backend developer.
+
+Phase 2.  
+Add a page that shows database of snowboard app.
+
+
+
